@@ -1,0 +1,10 @@
+.goal-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.goalHeading {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-decoration: underline;
+}

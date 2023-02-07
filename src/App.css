@@ -1,0 +1,26 @@
+#goals {
+  width: 35rem;
+  max-width: 90%;
+  margin: 3rem auto;
+}
+
+#goal-form {
+  width: 30rem;
+  max-width: 90%;
+  margin: 3rem auto;
+  background-color: rgb(255, 255, 255);
+  padding: 2rem;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+h2 {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin: 15px;
+}
+
+h4 {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

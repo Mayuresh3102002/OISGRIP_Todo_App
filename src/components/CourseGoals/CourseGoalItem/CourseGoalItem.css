@@ -1,0 +1,20 @@
+.goal-item {
+  margin: 1rem 0;
+  background: #2b86bb;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: large;
+  color: white;
+  padding: 1rem 2rem;
+  cursor: pointer;
+}
+
+.delete {
+  margin-left: 400px;
+  background-color: rgb(110, 12, 12);
+  border: none;
+  border-radius: 10px;
+  color: aliceblue;
+  font-size: large;
+  font-family: monospace;
+}
